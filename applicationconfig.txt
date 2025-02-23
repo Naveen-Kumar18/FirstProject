@@ -1,2 +1,3 @@
-server. port=82823
+server. port=82823666
 spring.appication.name=Employee
+spring.appication.name=Department
